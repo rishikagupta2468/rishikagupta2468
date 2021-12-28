@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: rishikagupta2468/blog-post-workflow@master
+      - uses: rishikagupta2468/rishikagupta2468@master
         with:
           comment_tag_name: "YOUTUBE-VIDEOS-LIST"
           feed_list: "https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww"
