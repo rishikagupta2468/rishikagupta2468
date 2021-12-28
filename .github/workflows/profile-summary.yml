@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: rishikagupta2468/github-profile-summary-cards@release
+      - uses: rishikagupta2468/rishikagupta2468@release
         env:
           GITHUB_TOKEN: ${{ secrets.token }}
         with:
