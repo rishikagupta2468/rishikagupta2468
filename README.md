@@ -13,10 +13,10 @@ I am Rishika Gupta, currently working as a Software Developer [LinkedIn](https:/
 
 <h3>Summary</h3>
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikagupta2468&theme=monokai)
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rishikagupta2468&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&title_color=FFB19A&hide_border=true)](https://github.com/rishikagupta2468/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
@@ -36,8 +36,6 @@ Languages
 Frameworks, Platforms and Libraries  
 ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishikagupta2468&theme=tokyonight&hide_rank=false&title_color=FFB19A&hide_border=true)](https://github.com/rishikagupta2468/github-readme-stats)
 
 
 📺 Latest YouTube Videos
