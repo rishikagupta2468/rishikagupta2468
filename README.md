@@ -40,6 +40,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Inheritance in C++ &lpar;Reference book- OOP with C++ by Balagurusamy&rpar;](https://www.youtube.com/watch?v=P4CEb1GKzDk)
+- [Personal branding and Profile building](https://www.youtube.com/watch?v=V9cFf3m_NwI)
+- [Type Conversion in User Defined Data Types](https://www.youtube.com/watch?v=jE6mpZWgRbA)
+- [Operator overloading in C++ &lpar;Reference book- OOP with C++ by E. Balagurusamy&rpar;](https://www.youtube.com/watch?v=-GqGJW3OV2w)
+- [Constructors and destructors in C++ &lpar;Reference book- OOP with C++ by Balagurusamy&rpar;](https://www.youtube.com/watch?v=6QZhlHNaiaY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
