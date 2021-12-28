@@ -9,8 +9,8 @@
 <h2>About me</h2>
 
 I am Rishika Gupta, currently working as a Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains. 
-
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
+💬 Ask me anything, I will be more than happy to help.
 <h3>Summary</h3>
 
 [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -61,6 +61,7 @@ Frameworks, Platforms and Libraries
 [<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/Rishika5000) 
 [<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww) 
 [<img src="https://user-images.githubusercontent.com/39955420/147606108-506d542b-a344-43d3-a4a3-aadd775f5c0b.png" height="48" width="48">](https://www.polywork.com/rishikagupta)
+[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:rishika246813579@gmail.com)
 [<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/art_with_rishika/)
 
 
