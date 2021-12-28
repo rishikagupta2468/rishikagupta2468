@@ -11,6 +11,9 @@
 I am Rishika Gupta, currently working as a Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains. 
 
+<h3>Summary</h3>
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikagupta2468&theme=monokai)
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rishikagupta2468&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&title_color=FFB19A&hide_border=true)](https://github.com/rishikagupta2468/github-readme-stats)
