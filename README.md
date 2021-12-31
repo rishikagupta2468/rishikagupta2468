@@ -42,11 +42,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Linkedin profiling tip 1: Fill your profile thoroughly👩‍💻](https://www.youtube.com/watch?v=EiQd2IOgrxg)
 - [My Github profile](https://www.youtube.com/watch?v=YlYp9-lvZq8)
 - [How to create attractive Github profile in 10 mins](https://www.youtube.com/watch?v=RlvLq62-jeY)
 - [Inheritance in C++ &lpar;Reference book- OOP with C++ by Balagurusamy&rpar;](https://www.youtube.com/watch?v=P4CEb1GKzDk)
 - [Personal branding and Profile building](https://www.youtube.com/watch?v=V9cFf3m_NwI)
-- [Type Conversion in User Defined Data Types](https://www.youtube.com/watch?v=jE6mpZWgRbA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
