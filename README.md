@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Virtual and abstract classes in C++ &lpar;Reference book- OOP with C++ by E. Balagurusamy&rpar;](https://www.youtube.com/watch?v=CqwuwpgJIzM)
 - [Linkedin profiling tip 1: Fill your profile thoroughly👩‍💻](https://www.youtube.com/watch?v=EiQd2IOgrxg)
 - [My Github profile](https://www.youtube.com/watch?v=YlYp9-lvZq8)
 - [How to create attractive Github profile in 10 mins](https://www.youtube.com/watch?v=RlvLq62-jeY)
 - [Inheritance in C++ &lpar;Reference book- OOP with C++ by Balagurusamy&rpar;](https://www.youtube.com/watch?v=P4CEb1GKzDk)
-- [Personal branding and Profile building](https://www.youtube.com/watch?v=V9cFf3m_NwI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
