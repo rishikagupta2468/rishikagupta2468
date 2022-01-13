@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Polymorphism, pointers and virtual functions in C++ &lpar;Reference book- OOP with C++ by E Balagurusamy&rpar;](https://www.youtube.com/watch?v=anU8zQfBkP8)
 - [Go participate in hackathons🔥](https://www.youtube.com/watch?v=r1ciimGRvvg)
 - [Hackathons- What, Why and How?](https://www.youtube.com/watch?v=Ir_JGCNU0s8)
 - [Linkedin profiling tip 4: Understand the importance of #linkedin summary section👩‍💻. #shorts](https://www.youtube.com/watch?v=DTC66maOGOo)
 - [Linkedin profiling tip 3: Use crisp and clear headline👩‍💻 #shorts](https://www.youtube.com/watch?v=c0G1ZtlchsU)
-- [Linkedin profiling tip 2: Use professional profile picture👩‍💻 #shorts](https://www.youtube.com/watch?v=kEVW5Qstva0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
