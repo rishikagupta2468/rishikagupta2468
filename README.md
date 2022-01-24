@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Modular Exponentiation with Code - Learn like a Pro🔥](https://www.youtube.com/watch?v=dN0MdlYRGm8)
 - [Linkedin profiling tip 5: Importance of right keywords👩‍💻. #shorts](https://www.youtube.com/watch?v=DTfEPrsfGyw)
 - [What is Cloud Computing??](https://www.youtube.com/watch?v=Nx0-pjAVd1I)
 - [C++ program basics for beginners 🔥](https://www.youtube.com/watch?v=xoyTB23hIUk)
 - [Introduction to AWS](https://www.youtube.com/watch?v=afO_3dM6gQs)
-- [What is DSA? Why should you learn about it?](https://www.youtube.com/watch?v=Z4-C0vrWNgo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
