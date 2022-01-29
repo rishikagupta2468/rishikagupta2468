@@ -42,7 +42,7 @@ Frameworks, Platforms and Libraries
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Everything you need to know about AWS Free Tier Account!](https://www.youtube.com/watch?v=2elkzwo2GBg)
-- [Decoding my journey into frames✨](https://www.youtube.com/watch?v=MUwE1pzAajQ)
+- [How I got into LinkedIn✨](https://www.youtube.com/watch?v=MUwE1pzAajQ)
 - [Modular Exponentiation with Code - Learn like a Pro🔥](https://www.youtube.com/watch?v=dN0MdlYRGm8)
 - [Linkedin profiling tip 5: Importance of right keywords👩‍💻. #shorts](https://www.youtube.com/watch?v=DTfEPrsfGyw)
 - [What is Cloud Computing??](https://www.youtube.com/watch?v=Nx0-pjAVd1I)
