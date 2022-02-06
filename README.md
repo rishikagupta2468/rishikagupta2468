@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to update your twitter banner in real time🔥](https://www.youtube.com/watch?v=_eQceCppKXQ)
 - [Sequence containers in STL](https://www.youtube.com/watch?v=gBImQhdT7jk)
 - [Learn like a Pro 🔥 - Sieve of Eratosthenes, Check if a number is Prime](https://www.youtube.com/watch?v=X9R3dx1ACjY)
 - [AWS Networking - Part 1](https://www.youtube.com/watch?v=kWoz5jpcUwI)
 - [Everything you need to know about AWS Free Tier Account!](https://www.youtube.com/watch?v=2elkzwo2GBg)
-- [How I got into LinkedIn✨](https://www.youtube.com/watch?v=MUwE1pzAajQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
