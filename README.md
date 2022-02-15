@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Merge sort and quick sort](https://www.youtube.com/watch?v=JKK-W6ORuNo)
 - [How to choose right career path? ft Kanishka Thakur](https://www.youtube.com/watch?v=2ENeXP3tuwU)
 - [Thank you so much everyone for your constant support♥️ #shorts](https://www.youtube.com/watch?v=vhFh9j0QIlY)
 - [How to update your twitter banner in real time🔥](https://www.youtube.com/watch?v=_eQceCppKXQ)
 - [Sequence containers in STL](https://www.youtube.com/watch?v=gBImQhdT7jk)
-- [Learn like a Pro 🔥 - Sieve of Eratosthenes, Check if a number is Prime](https://www.youtube.com/watch?v=X9R3dx1ACjY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
