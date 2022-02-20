@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Create Virtual Private Cloud&lpar;VPC&rpar; in AWS Console](https://www.youtube.com/watch?v=N0UC7QbwNU0)
 - [Greedy algorithms explained with examples](https://www.youtube.com/watch?v=71AD3fisfCQ)
 - [Merge sort and quick sort](https://www.youtube.com/watch?v=JKK-W6ORuNo)
 - [How to choose right career path? ft Kanishka Thakur](https://www.youtube.com/watch?v=2ENeXP3tuwU)
 - [Thank you so much everyone for your constant support♥️ #shorts](https://www.youtube.com/watch?v=vhFh9j0QIlY)
-- [How to update your twitter banner in real time🔥](https://www.youtube.com/watch?v=_eQceCppKXQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
