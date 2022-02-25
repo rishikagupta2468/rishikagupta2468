@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Binary search in simple terms](https://www.youtube.com/watch?v=dk2DsERh7f0)
 - [How to prepare for AWS Cloud Support Associate role?](https://www.youtube.com/watch?v=gPnnXkjfckI)
 - [Create Virtual Private Cloud&lpar;VPC&rpar; in AWS Console](https://www.youtube.com/watch?v=N0UC7QbwNU0)
 - [Greedy algorithms explained with examples](https://www.youtube.com/watch?v=71AD3fisfCQ)
 - [Merge sort and quick sort](https://www.youtube.com/watch?v=JKK-W6ORuNo)
-- [How to choose right career path? ft Kanishka Thakur](https://www.youtube.com/watch?v=2ENeXP3tuwU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
