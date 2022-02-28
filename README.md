@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Leetcode question practice on greedy algorithm](https://www.youtube.com/watch?v=Dpe-NR0k9kI)
 - [Binary search in simple terms](https://www.youtube.com/watch?v=dk2DsERh7f0)
 - [How to prepare for AWS Cloud Support Associate role?](https://www.youtube.com/watch?v=gPnnXkjfckI)
 - [Create Virtual Private Cloud&lpar;VPC&rpar; in AWS Console](https://www.youtube.com/watch?v=N0UC7QbwNU0)
 - [Greedy algorithms explained with examples](https://www.youtube.com/watch?v=71AD3fisfCQ)
-- [Merge sort and quick sort](https://www.youtube.com/watch?v=JKK-W6ORuNo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
