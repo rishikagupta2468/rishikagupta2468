@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Opportunities for women in tech🔥](https://www.youtube.com/watch?v=LXOUKahsjRw)
 - [Leetcode practice | Hashmaps](https://www.youtube.com/watch?v=OvPwvGtKDqk)
 - [Do you know the difference between maps and unordered maps in C++?](https://www.youtube.com/watch?v=jHiI0485cp0)
 - [Leetcode question practice on greedy algorithm](https://www.youtube.com/watch?v=Dpe-NR0k9kI)
 - [Binary search in simple terms](https://www.youtube.com/watch?v=dk2DsERh7f0)
-- [How to prepare for AWS Cloud Support Associate role?](https://www.youtube.com/watch?v=gPnnXkjfckI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
