@@ -42,7 +42,7 @@ Frameworks, Platforms and Libraries
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Binary search practice on Codeforces and Leetcode🔥](https://www.youtube.com/watch?v=Ro9l9u_6FXc)
-- [Binary search practice](https://www.youtube.com/watch?v=5p_uLs3xLMc)
+- [Binary search in detail](https://www.youtube.com/watch?v=5p_uLs3xLMc)
 - [Opportunities for women in tech🔥](https://www.youtube.com/watch?v=LXOUKahsjRw)
 - [Leetcode practice | Hashmaps](https://www.youtube.com/watch?v=OvPwvGtKDqk)
 - [Do you know the difference between maps and unordered maps in C++?](https://www.youtube.com/watch?v=jHiI0485cp0)
