@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Insertion, traversal and deletion in Linked List with code](https://www.youtube.com/watch?v=qW0_uuCXcSY)
 - [Grand Coding Contest |  Prizes worth rupees 10 Lacs](https://www.youtube.com/watch?v=dJ4z6Vcd1Jk)
 - [What is linked list?](https://www.youtube.com/watch?v=cBgWSlJuxEU)
 - [What are pointer variables in C++?](https://www.youtube.com/watch?v=-RnRE-U2m2A)
 - [Everything you need to know about AWS Solutions Architect Associate Certification](https://www.youtube.com/watch?v=VQ0BfknaAQI)
-- [Binary search practice on Codeforces and Leetcode🔥](https://www.youtube.com/watch?v=Ro9l9u_6FXc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
