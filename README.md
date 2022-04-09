@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Power of No-code tools 🔥 ft Garvitraj LIVE](https://www.youtube.com/watch?v=EiCLEg0K7Fk)
 - [Exception handling in C++](https://www.youtube.com/watch?v=OzPpaym3vUI)
 - [Two new, free AWS initiatives + Grand Coding Competition by Newton School Prizes worth 10 Lakhs](https://www.youtube.com/watch?v=wMrN3mpQxE8)
 - [Insertion, traversal and deletion in Linked List with code](https://www.youtube.com/watch?v=qW0_uuCXcSY)
 - [Grand Coding Contest |  Prizes worth rupees 10 Lacs](https://www.youtube.com/watch?v=dJ4z6Vcd1Jk)
+- [What is linked list?](https://www.youtube.com/watch?v=cBgWSlJuxEU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
