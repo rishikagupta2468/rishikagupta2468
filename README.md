@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Best way to use LinkedIn to get high pay jobs🔥](https://www.youtube.com/watch?v=u9nOIbhJU0I)
 - [First day at office❤️](https://www.youtube.com/watch?v=w-mmt_48A0U)
 - [Types of Linked List Data Structure](https://www.youtube.com/watch?v=qpjH1d2iFTQ)
 - [Introduction to Graph data structures.](https://www.youtube.com/watch?v=kOPLIBg2EHk)
 - [Power of No-code tools 🔥 ft Garvitraj LIVE](https://www.youtube.com/watch?v=EiCLEg0K7Fk)
-- [Exception handling in C++](https://www.youtube.com/watch?v=OzPpaym3vUI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
