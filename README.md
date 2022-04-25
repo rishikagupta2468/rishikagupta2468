@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How we started content creation](https://www.youtube.com/watch?v=ZLBTEzIEz-k)
 - [Bellman Ford Algorithm | Shortest path Graph](https://www.youtube.com/watch?v=zcZ4ALxKfGQ)
 - [Must know 10 Linux commands](https://www.youtube.com/watch?v=Mll4sjXqi_8)
 - [Graph Traversals BFS and DFS with code](https://www.youtube.com/watch?v=ljvNOZ0eWKI)
 - [Best way to use LinkedIn to get high pay jobs🔥](https://www.youtube.com/watch?v=u9nOIbhJU0I)
-- [First day at office❤️](https://www.youtube.com/watch?v=w-mmt_48A0U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
