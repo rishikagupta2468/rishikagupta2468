@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Dijkstra Algorithm | Shortest Path Graph](https://www.youtube.com/watch?v=11iH0u0IskU)
 - [Different profiles in IT industry](https://www.youtube.com/watch?v=r33nHGPp1RU)
 - [How we started content creation](https://www.youtube.com/watch?v=ZLBTEzIEz-k)
 - [Bellman Ford Algorithm | Shortest path Graph](https://www.youtube.com/watch?v=zcZ4ALxKfGQ)
 - [Must know 10 Linux commands](https://www.youtube.com/watch?v=Mll4sjXqi_8)
-- [Graph Traversals BFS and DFS with code](https://www.youtube.com/watch?v=ljvNOZ0eWKI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
