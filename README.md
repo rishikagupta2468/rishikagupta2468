@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is Web 3.0 and How you can get best out of it? 🔥 ft Francesco Ciulla LIVE](https://www.youtube.com/watch?v=GmpbHNensuo)
 - [Stacks and Queues | Introduction](https://www.youtube.com/watch?v=oM1Rys4XrpM)
 - [Upgraded hardware from #iphone 11 to 13😍                                             #unboxing](https://www.youtube.com/watch?v=oiuVFGw9iuY)
 - [Dijkstra Algorithm | Shortest Path Graph](https://www.youtube.com/watch?v=11iH0u0IskU)
 - [Different profiles in IT industry](https://www.youtube.com/watch?v=r33nHGPp1RU)
-- [How we started content creation](https://www.youtube.com/watch?v=ZLBTEzIEz-k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
