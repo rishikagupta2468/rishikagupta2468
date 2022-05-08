@@ -41,7 +41,7 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [What is Web 3.0 and How you can get best out of it? 🔥 ft Francesco Ciulla LIVE](https://www.youtube.com/watch?v=36ZQZu26YzY)
+- [What is Web 3.0?🔥 ft @Francesco Ciulla  LIVE](https://www.youtube.com/watch?v=36ZQZu26YzY)
 - [Stack using Array | Implementation in C++](https://www.youtube.com/watch?v=0SPUSMQi8N8)
 - [Stacks and Queues | Introduction](https://www.youtube.com/watch?v=oM1Rys4XrpM)
 - [Upgraded hardware from #iphone 11 to 13😍                                             #unboxing](https://www.youtube.com/watch?v=oiuVFGw9iuY)
