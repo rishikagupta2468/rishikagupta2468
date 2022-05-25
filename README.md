@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How to get into Cloud domain without any prior experience?](https://www.youtube.com/watch?v=2d6C7uXyl_Q)
 - [Cycle Detection in a directed or undirected graph](https://www.youtube.com/watch?v=CWyZpslS9ys)
 - [Goa trip with team♥️🏝](https://www.youtube.com/watch?v=Yhb4ahqo4pQ)
 - [Floyd Warshall | Graph Algorithm | All Pairs Shortest Path](https://www.youtube.com/watch?v=RSXyxlS54mg)
 - [What is Web 3.0?🔥 ft @Francesco Ciulla  LIVE](https://www.youtube.com/watch?v=36ZQZu26YzY)
-- [Stack using Array | Implementation in C++](https://www.youtube.com/watch?v=0SPUSMQi8N8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
