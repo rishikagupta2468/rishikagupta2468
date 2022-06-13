@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [8 websites for beginners to learn programming from👩🏻‍💻](https://www.youtube.com/watch?v=ZzNYFVLakMw)
 - [How to earn 6 digit income in software development | Important resources, tips and topics](https://www.youtube.com/watch?v=tDk8y389ISM)
 - [Queue implementation using array in C++ | Theory with code](https://www.youtube.com/watch?v=RCCUd-WW3xI)
 - [Stack STL for coding rounds](https://www.youtube.com/watch?v=8jj4T10thI4)
 - [All you need to know about AWS Community Builder Program!!!!](https://www.youtube.com/watch?v=lwGAPFXZrxw)
-- [Glimpse of Linkedin Bangalore Office♥️](https://www.youtube.com/watch?v=ldX3ETvxmrk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
