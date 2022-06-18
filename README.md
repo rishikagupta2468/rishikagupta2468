@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Linkedin LiftUp Music Festival🎶♥️ #shorts](https://www.youtube.com/watch?v=JXTiv_PXHYk)
 - [Queue using Linked list | Learn DSA](https://www.youtube.com/watch?v=IjcDSoIqQNs)
 - [All about Google&#39;s Women Techmakers Ambassador Program!](https://www.youtube.com/watch?v=ha0RLf3SdWU)
 - [8 websites for beginners to learn programming from👩🏻‍💻](https://www.youtube.com/watch?v=ZzNYFVLakMw)
 - [How to earn 6 digit income in software development | Important resources, tips and topics](https://www.youtube.com/watch?v=tDk8y389ISM)
-- [Queue implementation using array in C++ | Theory with code](https://www.youtube.com/watch?v=RCCUd-WW3xI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
