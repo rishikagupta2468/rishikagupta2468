@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [10 different #job profiles you can explore in #it industry🚀](https://www.youtube.com/watch?v=5jbqq3YXq3I)
 - [How to check whether the given problem is recursive or not?](https://www.youtube.com/watch?v=fH53fZtc3VI)
 - [Types of recursion | Part 2](https://www.youtube.com/watch?v=bRpJwFRQXH8)
 - [Recursion and it&#39;s types | For beginners](https://www.youtube.com/watch?v=1WS_C_vAH3s)
 - [Linkedin LiftUp Music Festival🎶♥️ #shorts](https://www.youtube.com/watch?v=JXTiv_PXHYk)
-- [Queue using Linked list | Learn DSA](https://www.youtube.com/watch?v=IjcDSoIqQNs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
