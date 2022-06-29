@@ -41,7 +41,7 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Introduction to Trees Data Structure](https://www.youtube.com/watch?v=cyYBL3wvcF0)
+- [Introduction to Trees data structures | For Beginners](https://www.youtube.com/watch?v=ZqyjLBWV4vE)
 - [5 common HR questions you must prepare for✅ #job #interview](https://www.youtube.com/watch?v=jgRR_PGk0Nk)
 - [Cracking multiple company offers | Interview experience by Adarsh](https://www.youtube.com/watch?v=jfma08dWIo0)
 - [How to create recursion tree | Complete guide](https://www.youtube.com/watch?v=VvbMjW69JU0)
