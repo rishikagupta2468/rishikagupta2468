@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Recursion | Question Practice](https://www.youtube.com/watch?v=qhSqZ6whoUY)
 - [N Queen problem using backtracking | Backtracking algorithm playlist](https://www.youtube.com/watch?v=83tL4Do5bbQ)
 - [Rat in a maze | Backtracking algorithm playlist](https://www.youtube.com/watch?v=DKpEioTc5Tw)
 - [Introduction to Backtracking | Backtracking algorithm playlist](https://www.youtube.com/watch?v=79y0iBKb2S4)
 - [Introduction to Trees data structures | For Beginners](https://www.youtube.com/watch?v=ZqyjLBWV4vE)
-- [5 common HR questions you must prepare for✅ #job #interview](https://www.youtube.com/watch?v=jgRR_PGk0Nk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
