@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Memoization and Dynamic Programming Introduction](https://www.youtube.com/watch?v=G7rIJ1sst5M)
 - [Memoization in Recursion | Explain](https://www.youtube.com/watch?v=tZuafuL_a3Q)
 - [Recursion | Question Practice](https://www.youtube.com/watch?v=qhSqZ6whoUY)
 - [N Queen problem using backtracking | Backtracking algorithm playlist](https://www.youtube.com/watch?v=83tL4Do5bbQ)
 - [Rat in a maze | Backtracking algorithm playlist](https://www.youtube.com/watch?v=DKpEioTc5Tw)
-- [Introduction to Backtracking | Backtracking algorithm playlist](https://www.youtube.com/watch?v=79y0iBKb2S4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
