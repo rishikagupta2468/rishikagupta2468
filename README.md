@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is 1D Dynamic Programming?](https://www.youtube.com/watch?v=Amt6lcb3T60)
 - [8 tips for Young Developers](https://www.youtube.com/watch?v=vWUTLQeFjUY)
 - [Memoization and Dynamic Programming Introduction](https://www.youtube.com/watch?v=G7rIJ1sst5M)
 - [Memoization in Recursion | Explain](https://www.youtube.com/watch?v=tZuafuL_a3Q)
 - [Recursion | Question Practice](https://www.youtube.com/watch?v=qhSqZ6whoUY)
-- [N Queen problem using backtracking | Backtracking algorithm playlist](https://www.youtube.com/watch?v=83tL4Do5bbQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
