@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is Fractional and 0/1 Knapsack problem? | Greedy vs Dynamic Programming](https://www.youtube.com/watch?v=UeABkKvkT3g)
 - [What is 1D Dynamic Programming?](https://www.youtube.com/watch?v=Amt6lcb3T60)
 - [8 tips for Young Developers](https://www.youtube.com/watch?v=vWUTLQeFjUY)
 - [Memoization and Dynamic Programming Introduction](https://www.youtube.com/watch?v=G7rIJ1sst5M)
 - [Memoization in Recursion | Explain](https://www.youtube.com/watch?v=tZuafuL_a3Q)
-- [Recursion | Question Practice](https://www.youtube.com/watch?v=qhSqZ6whoUY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
