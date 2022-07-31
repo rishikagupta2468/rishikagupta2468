@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Sliding window | Practice](https://www.youtube.com/watch?v=3-S-NSS6umQ)
 - [Sliding Window | Dynamic Programming](https://www.youtube.com/watch?v=bEXpndufk-k)
 - [0/1 Knapsack Solution Theory | Dynamic Programming](https://www.youtube.com/watch?v=RkF-M7k2-NM)
 - [What is Fractional and 0/1 Knapsack problem? | Greedy vs Dynamic Programming](https://www.youtube.com/watch?v=UeABkKvkT3g)
 - [What is 1D Dynamic Programming?](https://www.youtube.com/watch?v=Amt6lcb3T60)
-- [8 tips for Young Developers](https://www.youtube.com/watch?v=vWUTLQeFjUY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
