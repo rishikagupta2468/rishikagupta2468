@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is an API and it&#39;s types? in hindi](https://www.youtube.com/watch?v=AlcCPi8Ds_g)
 - [Longest common subsequence | Dynamic programming](https://www.youtube.com/watch?v=8UXLQLllP_g)
 - [Days to cherish♥️ #bangalore #travel](https://www.youtube.com/watch?v=LQ8S2nfLYXA)
 - [Sliding window | Practice](https://www.youtube.com/watch?v=3-S-NSS6umQ)
 - [Sliding Window | Dynamic Programming](https://www.youtube.com/watch?v=bEXpndufk-k)
-- [0/1 Knapsack Solution Theory | Dynamic Programming](https://www.youtube.com/watch?v=RkF-M7k2-NM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
