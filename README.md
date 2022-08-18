@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is an Amazon Machine Image &lpar;AMI&rpar;?](https://www.youtube.com/watch?v=vCi4KJ7bZJY)
 - [Create EC2 instance using Launch Template](https://www.youtube.com/watch?v=XXU8CvtFAfA)
 - [Amazon EC2 Basics with Demo](https://www.youtube.com/watch?v=7ANy52-cEMI)
 - [What is an API and it&#39;s types? in hindi](https://www.youtube.com/watch?v=AlcCPi8Ds_g)
 - [Longest common subsequence | Dynamic programming](https://www.youtube.com/watch?v=8UXLQLllP_g)
-- [Days to cherish♥️ #bangalore #travel](https://www.youtube.com/watch?v=LQ8S2nfLYXA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
