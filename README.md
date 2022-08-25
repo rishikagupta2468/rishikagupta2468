@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Different ways to implement union and find algorithm🔥](https://www.youtube.com/watch?v=xZzvuD0VWn0)
 - [What is Union and Find Algorithm | Disjoint Set](https://www.youtube.com/watch?v=11ClIlcINkQ)
 - [Demo to Amazon EC2 instance using an existing instance as the base.](https://www.youtube.com/watch?v=vnK0Y2u08CY)
 - [How to earn money online/offline as a student](https://www.youtube.com/watch?v=bzPjJhDD4Tc)
 - [What is an Amazon Machine Image &lpar;AMI&rpar;?](https://www.youtube.com/watch?v=vCi4KJ7bZJY)
-- [Create EC2 instance using Launch Template](https://www.youtube.com/watch?v=XXU8CvtFAfA)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
