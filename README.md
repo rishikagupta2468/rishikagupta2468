@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Do you really know what is hashing?](https://www.youtube.com/watch?v=I6J8He-B9_M)
 - [Solana Hacker House Delhi- 2022🔥](https://www.youtube.com/watch?v=4AOI8R8glL4)
 - [Path compression | Union and Find algorithm](https://www.youtube.com/watch?v=jw06ym-kxRM)
 - [Union by Size | Union find algorithm- Part 6](https://www.youtube.com/watch?v=pB3zUJE3Hcw)
 - [Meetup 🤝 Networking](https://www.youtube.com/watch?v=-W9BGVCTBKk)
-- [Union by Rank | Union find algorithm- Part 5](https://www.youtube.com/watch?v=7Emhce3kClQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
