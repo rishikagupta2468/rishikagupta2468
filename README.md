@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Linear probing | Closed hashing🔥](https://www.youtube.com/watch?v=_vaqd1-S0tA)
 - [Separate chaining | Collision handling](https://www.youtube.com/watch?v=uUFITSLJK_k)
 - [How you design your hashing function?](https://www.youtube.com/watch?v=FTnhArfBhew)
 - [Google never fails to send surprises😍](https://www.youtube.com/watch?v=6POUx7PO5Qw)
 - [Do you really know what is hashing?](https://www.youtube.com/watch?v=I6J8He-B9_M)
-- [Solana Hacker House Delhi- 2022🔥](https://www.youtube.com/watch?v=4AOI8R8glL4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
