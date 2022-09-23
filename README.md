@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Quadratic Probing in Hashing](https://www.youtube.com/watch?v=pXxo1W1BiU0)
 - [Linear probing | Closed hashing🔥](https://www.youtube.com/watch?v=_vaqd1-S0tA)
 - [Separate chaining | Collision handling](https://www.youtube.com/watch?v=uUFITSLJK_k)
 - [How you design your hashing function?](https://www.youtube.com/watch?v=FTnhArfBhew)
 - [Google never fails to send surprises😍](https://www.youtube.com/watch?v=6POUx7PO5Qw)
-- [Do you really know what is hashing?](https://www.youtube.com/watch?v=I6J8He-B9_M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
