@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [4 best tips to become Pro at DSA](https://www.youtube.com/watch?v=fzoffYZ4q4E)
 - [Rehashing in data structure](https://www.youtube.com/watch?v=NtAYWGv6uXU)
 - [Double hashing | Open addressing](https://www.youtube.com/watch?v=0Wp3MS6JxhY)
 - [Quadratic Probing in Hashing](https://www.youtube.com/watch?v=pXxo1W1BiU0)
 - [Linear probing | Closed hashing🔥](https://www.youtube.com/watch?v=_vaqd1-S0tA)
-- [Separate chaining | Collision handling](https://www.youtube.com/watch?v=uUFITSLJK_k)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
