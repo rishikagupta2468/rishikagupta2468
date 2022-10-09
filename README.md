@@ -41,7 +41,7 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Client Server Architecture](https://www.youtube.com/watch?v=K3E7gDSOxsw)
+- [Client Server Architecture in detail](https://www.youtube.com/watch?v=a5CgfS0Y4Uc)
 - [Complete Beginner&#39;s Guide for DSA](https://www.youtube.com/watch?v=xXXSWnuzxbk)
 - [4 best tips to become Pro at DSA](https://www.youtube.com/watch?v=fzoffYZ4q4E)
 - [Rehashing in data structure](https://www.youtube.com/watch?v=NtAYWGv6uXU)
