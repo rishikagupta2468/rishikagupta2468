@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Which AWS Certification should I choose? | AWS Certification Roadmap](https://www.youtube.com/watch?v=0gN1pRV8qtA)
 - [Useful Tips &amp; Resources to Crack AWS Solutions Architect Professional Exam](https://www.youtube.com/watch?v=KoAztvttZwM)
 - [Client Server Architecture in detail](https://www.youtube.com/watch?v=a5CgfS0Y4Uc)
 - [Complete Beginner&#39;s Guide for DSA](https://www.youtube.com/watch?v=xXXSWnuzxbk)
 - [4 best tips to become Pro at DSA](https://www.youtube.com/watch?v=fzoffYZ4q4E)
-- [Rehashing in data structure](https://www.youtube.com/watch?v=NtAYWGv6uXU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
