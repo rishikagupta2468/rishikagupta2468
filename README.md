@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Rishika Gupta  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishika5000?style=social)](https://twitter.com/Rishika5000)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishikagupta__?style=social)](https://twitter.com/Rishika5000)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
 [![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
 
