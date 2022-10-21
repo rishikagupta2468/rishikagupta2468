@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [5 tips to ACE technical interview | MAANG SDE interview preparation guide](https://www.youtube.com/watch?v=RJnOJdSN8xM)
 - [How to stay consistent | 5 best tips to follow](https://www.youtube.com/watch?v=bDzlu9c6-00)
 - [Client Server Architecture Part 2](https://www.youtube.com/watch?v=tl_qEYZRVIQ)
 - [Crazy twitter profile picture idea](https://www.youtube.com/watch?v=Yz9PHbKNA-0)
 - [Which AWS Certification should I choose? | AWS Certification Roadmap](https://www.youtube.com/watch?v=0gN1pRV8qtA)
-- [Useful Tips &amp; Resources to Crack AWS Solutions Architect Professional Exam](https://www.youtube.com/watch?v=KoAztvttZwM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
