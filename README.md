@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Find Product of Array Except Self | DSA Interview Questions](https://www.youtube.com/watch?v=QzfY0V-0-CY)
 - [Find Diameter of binary tree | Google asked interview question](https://www.youtube.com/watch?v=soZIK_VSPHU)
 - [Implement LRU cache with example](https://www.youtube.com/watch?v=ytZ7rFk61cI)
 - [What is LRU cache in 10 minutes](https://www.youtube.com/watch?v=_FE9aZHWCqE)
 - [5 tips to ACE technical interview | MAANG SDE interview preparation guide](https://www.youtube.com/watch?v=RJnOJdSN8xM)
-- [How to stay consistent | 5 best tips to follow](https://www.youtube.com/watch?v=bDzlu9c6-00)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
