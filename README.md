@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Palindrome number | DSA Interview Preparation | Part 2](https://www.youtube.com/watch?v=TdLClY_Zoes)
 - [Two Sum | DSA Interview Preparation | Part 1](https://www.youtube.com/watch?v=sQ8FWrYdr3U)
 - [Connected component in undirected graph without DFS??](https://www.youtube.com/watch?v=LtsFwXN5OTA)
 - [Find Product of Array Except Self | DSA Interview Questions](https://www.youtube.com/watch?v=QzfY0V-0-CY)
 - [Find Diameter of binary tree | Google asked interview question](https://www.youtube.com/watch?v=soZIK_VSPHU)
-- [Implement LRU cache with example](https://www.youtube.com/watch?v=ytZ7rFk61cI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
