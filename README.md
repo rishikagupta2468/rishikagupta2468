@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Find non-repetitive element | DSA Interview Preparation | Hindi | Part 4](https://www.youtube.com/watch?v=A67Kacrx7Js)
-- [Add Binary Strings | DSA Interview Preparation | In Hindi | Part 3](https://www.youtube.com/watch?v=4Ag-d6taS6c)
-- [Palindrome number | DSA Interview Preparation | In Hindi | Part 2](https://www.youtube.com/watch?v=TdLClY_Zoes)
-- [Two Sum | DSA Interview Preparation | In Hindi | Part 1](https://www.youtube.com/watch?v=sQ8FWrYdr3U)
-- [Connected component in undirected graph without DFS??](https://www.youtube.com/watch?v=LtsFwXN5OTA)
+- [Good pairs | DSA Interview Questions | In Hindi | Part 4](https://www.youtube.com/watch?v=pftmJBKtUDo)
+- [Find non-repetitive element | DSA Interview Questions | Hindi | Part 4](https://www.youtube.com/watch?v=A67Kacrx7Js)
+- [Add Binary Strings | DSA Interview Questions | In Hindi | Part 3](https://www.youtube.com/watch?v=4Ag-d6taS6c)
+- [Palindrome number | DSA Interview Questions | In Hindi | Part 2](https://www.youtube.com/watch?v=TdLClY_Zoes)
+- [Two Sum | DSA Interview Questions | In Hindi | Part 1](https://www.youtube.com/watch?v=sQ8FWrYdr3U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
