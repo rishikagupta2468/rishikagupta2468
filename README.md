@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Use this tool and your resume now🚀 #jobsearch #recession](https://www.youtube.com/watch?v=x4Ep0DBaZpc)
 - [Isomorphic Strings | DSA Interview Questions | In Hindi | Part 8](https://www.youtube.com/watch?v=4SzhZTYliV4)
 - [Majority Element | DSA Interview Questions | In Hindi | Part 7](https://www.youtube.com/watch?v=rCobfVhQNls)
 - [Web Development Roadmap in 30 sec🚀](https://www.youtube.com/watch?v=3kl5ShPN6DY)
 - [Largest odd number | DSA Interview Questions | In Hindi | Part 6](https://www.youtube.com/watch?v=qPCJkzj6ykI)
-- [Good pairs | DSA Interview Questions | In Hindi | Part 5](https://www.youtube.com/watch?v=pftmJBKtUDo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
