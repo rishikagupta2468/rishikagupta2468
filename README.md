@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [What is Operating system? | Operating system | Part-1](https://www.youtube.com/watch?v=Bvwh_L3K1-k)
 - [Devfest 2022🔥 #shorts #minivlog](https://www.youtube.com/watch?v=GFsR6xK0ZoI)
 - [Add resume to your LinkedIn profile today🚀 #linkedinstrategy #resume](https://www.youtube.com/watch?v=-D4c8Rbl8Hk)
 - [Use this tool and your resume now🚀 #jobsearch #recession](https://www.youtube.com/watch?v=x4Ep0DBaZpc)
 - [Isomorphic Strings | DSA Interview Questions | In Hindi | Part 8](https://www.youtube.com/watch?v=4SzhZTYliV4)
-- [Majority Element | DSA Interview Questions | In Hindi | Part 7](https://www.youtube.com/watch?v=rCobfVhQNls)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
