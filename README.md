@@ -41,11 +41,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [ChatGPT: Testing &amp; Review | Learn Then Code](https://www.youtube.com/watch?v=Z_pkV9b2yP0)
 - [What is Operating system? | Operating system | Part-1](https://www.youtube.com/watch?v=Bvwh_L3K1-k)
 - [Add resume to your LinkedIn profile today🚀 #linkedinstrategy #resume](https://www.youtube.com/watch?v=-D4c8Rbl8Hk)
 - [Use this tool and your resume now🚀 #jobsearch #recession](https://www.youtube.com/watch?v=x4Ep0DBaZpc)
 - [Isomorphic Strings | DSA Interview Questions | In Hindi | Part 8](https://www.youtube.com/watch?v=4SzhZTYliV4)
-- [Majority Element | DSA Interview Questions | In Hindi | Part 7](https://www.youtube.com/watch?v=rCobfVhQNls)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
