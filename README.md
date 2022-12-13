@@ -11,14 +11,6 @@
 I am Rishika Gupta, currently working as a Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
-<h3>Summary</h3>
-
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
 <h2>🛠Tech Stack</h2>
 
