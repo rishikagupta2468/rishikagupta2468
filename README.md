@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Hide WhatsApp Messages | Desktop WhatsApp Message Hider | Newton School](https://www.youtube.com/watch?v=zF4zBIeWTpI)
 - [Difference between Multiprogramming and Multitasking in Operating System | Part-2](https://www.youtube.com/watch?v=IY2HGf4w1UU)
 - [ChatGPT: Testing &amp; Review | Learn Then Code](https://www.youtube.com/watch?v=Z_pkV9b2yP0)
 - [What is Operating system? | Operating system | Part-1](https://www.youtube.com/watch?v=Bvwh_L3K1-k)
 - [Add resume to your LinkedIn profile today🚀 #linkedinstrategy #resume](https://www.youtube.com/watch?v=-D4c8Rbl8Hk)
-- [Use this tool and your resume now🚀 #jobsearch #recession](https://www.youtube.com/watch?v=x4Ep0DBaZpc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
