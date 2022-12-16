@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [A Day in Life of Walmart SDE | @geekupwithriti7744 | Learn Then Code](https://www.youtube.com/watch?v=zCTSJtM5YhA)
 - [User Interface as a Service | Operating System | Part-3](https://www.youtube.com/watch?v=RkBPvF42lps)
 - [My 5 secret Time Management Tips | Learn Then Code](https://www.youtube.com/watch?v=hrc-xS58WkM)
 - [Hide WhatsApp Messages | Desktop WhatsApp Message Hider | Newton School](https://www.youtube.com/watch?v=zF4zBIeWTpI)
 - [Difference between Multiprogramming and Multitasking in Operating System | Part-2](https://www.youtube.com/watch?v=IY2HGf4w1UU)
-- [ChatGPT: Testing &amp; Review | Learn Then Code](https://www.youtube.com/watch?v=Z_pkV9b2yP0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
