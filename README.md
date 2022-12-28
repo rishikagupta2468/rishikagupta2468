@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Top 3 Carrier Options In 2023](https://www.youtube.com/watch?v=i4T2WEEPKHc)
 - [5 Gadgets you Should Have || Newton School](https://www.youtube.com/watch?v=9iLpnhyOYd0)
 - [Did you know about this before?🤯 #coding #resume #tips](https://www.youtube.com/watch?v=ZVRBPNHL63U)
 - [OS functions not to help user | Part-4](https://www.youtube.com/watch?v=zIjU0h4EmJU)
 - [Front End VS Back End  Developers #shorts](https://www.youtube.com/watch?v=j2ru8xr9tdg)
-- [5 Tips Which No one Tells You to Ace the Interview | Learn then Code](https://www.youtube.com/watch?v=ZLXs9Y29bcQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
