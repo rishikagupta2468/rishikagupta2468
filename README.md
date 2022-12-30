@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Apple 🍎 me Cut kyu Hai](https://www.youtube.com/watch?v=bqBFswxOIww)
 - [How I spent 4 years of my college |Learn then Code](https://www.youtube.com/watch?v=48W2UpHCDH4)
 - [Underrated interview tips🫡 #shorts #interviewpreparation](https://www.youtube.com/watch?v=l7Z21sT_dvc)
 - [Top 3 Career Options In 2023](https://www.youtube.com/watch?v=i4T2WEEPKHc)
 - [5 Gadgets you Should Have || Newton School](https://www.youtube.com/watch?v=9iLpnhyOYd0)
-- [Did you know about this before?🤯 #coding #resume #tips](https://www.youtube.com/watch?v=ZVRBPNHL63U)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
