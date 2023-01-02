@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Windows Shortcuts Trick to Save Your Time](https://www.youtube.com/watch?v=6TUcAScJHMw)
 - [Play games to learn Coding | Learn then Code](https://www.youtube.com/watch?v=7CIR1FFodpo)
 - [Copy Paste Like a Pro #youtubeshorts](https://www.youtube.com/watch?v=8crcZXcw0t8)
 - [Apple 🍎 me Cut kyu Hai](https://www.youtube.com/watch?v=bqBFswxOIww)
 - [How I spent 4 years of my college |Learn then Code](https://www.youtube.com/watch?v=48W2UpHCDH4)
-- [Underrated interview tips🫡 #shorts #interviewpreparation](https://www.youtube.com/watch?v=l7Z21sT_dvc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
