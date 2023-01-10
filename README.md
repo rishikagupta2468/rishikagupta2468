@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Salary difference between Data analyst and Business analyst #youtubeshorts #shorts](https://www.youtube.com/watch?v=AkTcbPNnuHQ)
 - [Salary of Data Analyst and Data Scientist #youtubeshorts](https://www.youtube.com/watch?v=n3wVwa9l7-8)
 - [Biggest Mistake of Yahoo!](https://www.youtube.com/watch?v=wAkNYevk_KY)
 - [Windows Shortcuts Trick to Save Your Time](https://www.youtube.com/watch?v=6TUcAScJHMw)
 - [Play games to learn Coding | Learn then Code](https://www.youtube.com/watch?v=7CIR1FFodpo)
-- [Copy Paste Like a Pro #youtubeshorts](https://www.youtube.com/watch?v=8crcZXcw0t8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
