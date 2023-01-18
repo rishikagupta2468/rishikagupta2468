@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Realtime 5g Testing in India #youtubeshorts #shorts](https://www.youtube.com/watch?v=Pr2RfosDUSw)
 - [Tech Career Options without Coding #youtubeshorts #shorts](https://www.youtube.com/watch?v=khsb0wBZo8c)
 - [A mother who became a developer at her dream company #Shorts #youtubeshorts #Newtonschool](https://www.youtube.com/watch?v=PdpRH8JUT8I)
 - [5 Most Used Programming Languages in the World #youtubeshorts #Shorts](https://www.youtube.com/watch?v=rPd1fmh4HR4)
 - [High Paying Coding Languages in 2023  #youtubeshorts](https://www.youtube.com/watch?v=XA-zyvHbexc)
-- [5 Major services provided by OS | Operating System | Part-5](https://www.youtube.com/watch?v=9nyrG0MqTL0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
