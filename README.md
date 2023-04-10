@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [30 days 30 tools for software engineers🔥Part 1- Feedly              #technology #30dayschallenge](https://www.youtube.com/watch?v=p_Xp1niVMdw)
 - [Realtime 5g Testing in India #youtubeshorts #shorts](https://www.youtube.com/watch?v=Pr2RfosDUSw)
 - [Tech Career Options without Coding #youtubeshorts #shorts](https://www.youtube.com/watch?v=khsb0wBZo8c)
 - [A mother who became a developer at her dream company #Shorts #youtubeshorts #Newtonschool](https://www.youtube.com/watch?v=PdpRH8JUT8I)
 - [5 Most Used Programming Languages in the World #youtubeshorts #Shorts](https://www.youtube.com/watch?v=rPd1fmh4HR4)
-- [High Paying Coding Languages in 2023  #youtubeshorts](https://www.youtube.com/watch?v=XA-zyvHbexc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
