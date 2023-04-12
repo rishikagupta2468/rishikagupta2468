@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [This tool is useful for any profession where writing is involved. #30dayschallenge #technology](https://www.youtube.com/watch?v=lDopDUtEwX0)
 - [Vimium provides keyboard shortcuts for navigation.  #30dayschallenge  #technology](https://www.youtube.com/watch?v=RS4NNvrK6J4)
 - [30 days 30 tools for software engineers🔥Part 1- Feedly              #technology #30dayschallenge](https://www.youtube.com/watch?v=p_Xp1niVMdw)
 - [Realtime 5g Testing in India #youtubeshorts #shorts](https://www.youtube.com/watch?v=Pr2RfosDUSw)
 - [Tech Career Options without Coding #youtubeshorts #shorts](https://www.youtube.com/watch?v=khsb0wBZo8c)
-- [A mother who became a developer at her dream company #Shorts #youtubeshorts #Newtonschool](https://www.youtube.com/watch?v=PdpRH8JUT8I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
