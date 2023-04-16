@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [ClickUp #30dayschallenge #technology](https://www.youtube.com/watch?v=fFw0VhfgpwM)
 - [Tabnine #30dayschallenge #technology](https://www.youtube.com/watch?v=rC39KbbwMgg)
 - [Try timely #30dayschallenge #technology](https://www.youtube.com/watch?v=4rsnvf6VqLw)
 - [Create diagrams from descriptions. #30dayschallenge #technology](https://www.youtube.com/watch?v=AlBRYS5aDB8)
 - [This tool is useful for any profession where writing is involved. #30dayschallenge #technology](https://www.youtube.com/watch?v=lDopDUtEwX0)
-- [Vimium provides keyboard shortcuts for navigation.  #30dayschallenge  #technology](https://www.youtube.com/watch?v=RS4NNvrK6J4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
