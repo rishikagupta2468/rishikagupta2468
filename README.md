@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Json formatting tool #30dayschallenge #technology](https://www.youtube.com/watch?v=ye5kTIk9_ds)
 - [Diff checker. #30dayschallenge #technology](https://www.youtube.com/watch?v=IHp_P5-NJpI)
 - [ClickUp #30dayschallenge #technology](https://www.youtube.com/watch?v=fFw0VhfgpwM)
 - [Tabnine #30dayschallenge #technology](https://www.youtube.com/watch?v=rC39KbbwMgg)
 - [Try timely #30dayschallenge #technology](https://www.youtube.com/watch?v=4rsnvf6VqLw)
-- [Create diagrams from descriptions. #30dayschallenge #technology](https://www.youtube.com/watch?v=AlBRYS5aDB8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
