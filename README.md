@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Convert your text to sql with this AI tool #30dayschallenge #technology](https://www.youtube.com/watch?v=1bWmhGe4T0c)
 - [Best no code website builder #30dayschallenge #technology](https://www.youtube.com/watch?v=wh9PElvfDQ4)
 - [Json formatting tool #30dayschallenge #technology](https://www.youtube.com/watch?v=ye5kTIk9_ds)
 - [Diff checker. #30dayschallenge #technology](https://www.youtube.com/watch?v=IHp_P5-NJpI)
 - [ClickUp #30dayschallenge #technology](https://www.youtube.com/watch?v=fFw0VhfgpwM)
-- [Tabnine #30dayschallenge #technology](https://www.youtube.com/watch?v=rC39KbbwMgg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
