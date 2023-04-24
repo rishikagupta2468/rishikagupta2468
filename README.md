@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Your second brain is here #30dayschallenge #technology](https://www.youtube.com/watch?v=AmQ-oqiRGZQ)
 - [#30dayschallenge #technology](https://www.youtube.com/watch?v=Ooohw-Rpx60)
 - [Codepen.io is here to here you #30dayschallenge #technology](https://www.youtube.com/watch?v=53YSJz5IbM0)
 - [Convert your text to sql with this AI tool #30dayschallenge #technology](https://www.youtube.com/watch?v=1bWmhGe4T0c)
 - [Best no code website builder #30dayschallenge #technology](https://www.youtube.com/watch?v=wh9PElvfDQ4)
-- [Json formatting tool #30dayschallenge #technology](https://www.youtube.com/watch?v=ye5kTIk9_ds)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
