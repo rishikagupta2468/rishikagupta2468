@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Manage out of control emails with sanebox💯 #30dayschallenge #technology](https://www.youtube.com/watch?v=_cy2No17LYs)
 - [Lucidchart is best🔥 #30dayschallenge #technology](https://www.youtube.com/watch?v=HLrg6Jv5zSE)
 - [Codemate is here to make you 10x more productive while programming🔥 #30dayschallenge #technology](https://www.youtube.com/watch?v=x1Si9pVR9hY)
 - [Save your precious time with Geekbot. #30dayschallenge #technology](https://www.youtube.com/watch?v=b7MZJZQJo2Q)
 - [Your second brain is here #30dayschallenge #technology](https://www.youtube.com/watch?v=AmQ-oqiRGZQ)
-- [#30dayschallenge #technology](https://www.youtube.com/watch?v=Ooohw-Rpx60)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
