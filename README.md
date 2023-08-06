@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Most used approaches to solve DSA problems👆🏻](https://www.youtube.com/watch?v=-40a2zVT5lI)
 - [A day as Software Engineer at Linkedin](https://www.youtube.com/watch?v=cn6k06bm1ug)
 - [From hackathon participant to organiser to judge📈](https://www.youtube.com/watch?v=t_PXc2ah33s)
 - [Did you try these AI tools?🔥](https://www.youtube.com/watch?v=PZX35IiksAw)
 - [Manage out of control emails with sanebox💯 #30dayschallenge #technology](https://www.youtube.com/watch?v=_cy2No17LYs)
-- [Lucidchart is best🔥 #30dayschallenge #technology](https://www.youtube.com/watch?v=HLrg6Jv5zSE)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
