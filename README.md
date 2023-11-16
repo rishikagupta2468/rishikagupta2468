@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [16 November 2023](https://www.youtube.com/watch?v=LjWEMlGopkU)
 - [Keep working hard💪🏻🔥](https://www.youtube.com/watch?v=xkmdzc4PWkU)
 - [Invited as a speaker at GDG devfest 2023](https://www.youtube.com/watch?v=6Pvo4vU7uvY)
 - [Most used approaches to solve DSA problems👆🏻](https://www.youtube.com/watch?v=-40a2zVT5lI)
 - [A day as Software Engineer at Linkedin](https://www.youtube.com/watch?v=cn6k06bm1ug)
-- [From hackathon participant to organiser to judge📈](https://www.youtube.com/watch?v=t_PXc2ah33s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
