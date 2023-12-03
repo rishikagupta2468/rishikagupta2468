@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [ #apple #shorts #products](https://www.youtube.com/watch?v=27xc5wYE8Go)
 - [How to make most out of hackathons:](https://www.youtube.com/watch?v=LjWEMlGopkU)
 - [Keep working hard💪🏻🔥](https://www.youtube.com/watch?v=xkmdzc4PWkU)
 - [Invited as a speaker at GDG devfest 2023](https://www.youtube.com/watch?v=6Pvo4vU7uvY)
 - [Most used approaches to solve DSA problems👆🏻](https://www.youtube.com/watch?v=-40a2zVT5lI)
-- [A day as Software Engineer at Linkedin](https://www.youtube.com/watch?v=cn6k06bm1ug)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
