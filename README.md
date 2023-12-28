@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Keep working hard #hackothon #hardwork #determination #shorts](https://www.youtube.com/watch?v=Irf-uaE37WU)
 - [From SIH participant to judge.](https://www.youtube.com/watch?v=UGWxFn6ASvs)
 - [ #apple #shorts #products](https://www.youtube.com/watch?v=27xc5wYE8Go)
 - [How to make most out of hackathons:](https://www.youtube.com/watch?v=LjWEMlGopkU)
 - [Keep working hard💪🏻🔥](https://www.youtube.com/watch?v=xkmdzc4PWkU)
-- [Invited as a speaker at GDG devfest 2023](https://www.youtube.com/watch?v=6Pvo4vU7uvY)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
