@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Interview preparation Tip2: Research about the company. #placement #jobs #shorts](https://www.youtube.com/watch?v=PgkURPkkJ_Q)
 - [Interview preparation tip 1: Think out loud.  #shorts #placement #jobs #students](https://www.youtube.com/watch?v=4URQrGXFJiI)
 - [Keep working hard #hackothon #hardwork #determination #shorts](https://www.youtube.com/watch?v=Irf-uaE37WU)
 - [From SIH participant to judge.](https://www.youtube.com/watch?v=UGWxFn6ASvs)
 - [ #apple #shorts #products](https://www.youtube.com/watch?v=27xc5wYE8Go)
-- [How to make most out of hackathons:](https://www.youtube.com/watch?v=LjWEMlGopkU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
