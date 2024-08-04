@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Always look at the previously asked questions in the company🚀 #shorts #jobs](https://www.youtube.com/watch?v=77n7oZ1VH8o)
 - [I made a mistake in the code, I’ll definitely get rejected. #jobs #interview #shorts](https://www.youtube.com/watch?v=wv_QYratWfM)
 - [Bad code????? #shorts #interview](https://www.youtube.com/watch?v=i3yG-EJFQfM)
 - [Preparing for interviews and still don’t know about STAR method??? #jobs #interview #tech#shorts](https://www.youtube.com/watch?v=HMlA_X7WAuc)
 - [Interview preparation Tip2: Research about the company. #placement #jobs #shorts](https://www.youtube.com/watch?v=PgkURPkkJ_Q)
-- [Interview preparation tip 1: Think out loud.  #shorts #placement #jobs #students](https://www.youtube.com/watch?v=4URQrGXFJiI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
