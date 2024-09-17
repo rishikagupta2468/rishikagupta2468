@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-I am Rishika Gupta, currently working as a Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am Rishika Gupta, currently working as a Senior Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 
