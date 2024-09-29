@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [When to use Builder Pattern? OOP Design Patterns Part-2](https://www.youtube.com/watch?v=TOiZ-WahJT8)
 - [What and Why Design Patterns? OOP Design Patterns Part-1](https://www.youtube.com/watch?v=QVMhOlVbwb4)
 - [Always look at the previously asked questions in the company🚀 #shorts #jobs](https://www.youtube.com/watch?v=77n7oZ1VH8o)
 - [I made a mistake in the code, I’ll definitely get rejected. #jobs #interview #shorts](https://www.youtube.com/watch?v=wv_QYratWfM)
 - [Bad code????? #shorts #interview](https://www.youtube.com/watch?v=i3yG-EJFQfM)
-- [Preparing for interviews and still don’t know about STAR method??? #jobs #interview #tech#shorts](https://www.youtube.com/watch?v=HMlA_X7WAuc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
