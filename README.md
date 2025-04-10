@@ -35,9 +35,9 @@ Frameworks, Platforms and Libraries
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [AI use kroge to tumhari job to gyi #coding #ai](https://www.youtube.com/watch?v=1GwIHmVvUok)
 - [3 ways to implement Singleton pattern in java? OOP Design Patterns Part-5](https://www.youtube.com/watch?v=531_BR023BE)
+- [What is Singleton Pattern and when to use it? OOP Design Patterns Part-4](https://www.youtube.com/watch?v=SHCNSsCvD0I)
 - [How to implement Builder pattern in java? OOP Design Patterns Part-3](https://www.youtube.com/watch?v=G1ujhPL4eCo)
 - [When to use Builder Pattern? OOP Design Patterns Part-2](https://www.youtube.com/watch?v=TOiZ-WahJT8)
-- [What and Why Design Patterns? OOP Design Patterns Part-1](https://www.youtube.com/watch?v=QVMhOlVbwb4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
