@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [The abilene paradox of corporate #corporatelife #growth #womenintech](https://www.youtube.com/shorts/3BckcXtfGao)
 - [People pleasing can cause burnouts at work⤴️](https://www.youtube.com/shorts/j7SgD2R587k)
 - [Move fast than to move with perfection. Perfection is a craft that will come eventually.](https://www.youtube.com/shorts/gaX9rLD2iz8)
 - [AI use kroge to tumhari job to gyi #coding #ai](https://www.youtube.com/shorts/1GwIHmVvUok)
 - [3 ways to implement Singleton pattern in java? OOP Design Patterns Part-5](https://www.youtube.com/watch?v=531_BR023BE)
-- [What is Singleton Pattern and when to use it? OOP Design Patterns Part-4](https://www.youtube.com/watch?v=SHCNSsCvD0I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
