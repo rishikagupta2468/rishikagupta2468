@@ -33,11 +33,11 @@ Frameworks, Platforms and Libraries
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Ask for help #corporatelife #shorts](https://www.youtube.com/shorts/Okds9sUD3Ew)
 - [You might have paralysis #corporatelife #shorts #growth](https://www.youtube.com/shorts/Iexu1Z1h82k)
 - [This is known as Spotlight Effect in corporate #corporatelife #youtubeshorts](https://www.youtube.com/shorts/nnsqZSDaF4M)
 - [The abilene paradox of corporate #corporatelife #growth #womenintech](https://www.youtube.com/shorts/3BckcXtfGao)
 - [People pleasing can cause burnouts at work⤴️](https://www.youtube.com/shorts/j7SgD2R587k)
-- [Move fast than to move with perfection. Perfection is a craft that will come eventually.](https://www.youtube.com/shorts/gaX9rLD2iz8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
